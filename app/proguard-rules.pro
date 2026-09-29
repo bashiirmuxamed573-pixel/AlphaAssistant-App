@@ -1,0 +1,1 @@
+# ALPHA Assistant custom ProGuard rules
